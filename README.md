@@ -1,9 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=c6eeff&height=300&section=header&text=Ready%20To%20Fly?&fontSize=70&animation=fadeIn&desc=f1rstf1y9's%20GitHub%20Profile&fontAlignY=43&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:57def9,100:8ef287&height=300&section=header&text=Ready%20To%20Fly?&fontSize=70&animation=fadeIn&desc=f1rstf1y9's%20GitHub%20Profile&fontAlignY=43&descAlign=60&fontColor=ffffff)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ff1rstf1y9&count_bg=%23a8d6eb&title_bg=%23a8c3ea&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ff1rstf1y9&count_bg=%2321cbed&title_bg=%2321cbed&icon=&icon_color=%2321cbed&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <br>
   안녕하세요, 성장하는 개발자 정은경입니다!👋
