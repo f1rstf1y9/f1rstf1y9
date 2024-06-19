@@ -23,7 +23,9 @@
 <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>  
 <br>
-<p align="center">  <a href="https://blog.naver.com/f1rstf1y9"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/f1rstf1y9"/></a>&nbsp 
+<p align="center">  
+<a href="https://f1rstf1y9.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white&link=https://f1rstf1y9.tistory.com"/></a>&nbsp
+<a href="https://blog.naver.com/f1rstf1y9"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/f1rstf1y9"/></a>&nbsp 
 <a href="https://www.instagram.com/119_ek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff&link=https://www.instagram.com/119_ek/"/></a>&nbsp </p>
 
   
